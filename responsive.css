@@ -1,0 +1,159 @@
+@media (max-width:1349px){
+    .sub-heading{
+        width: 40%;
+        margin-left: 140px;
+    }
+    .main-heading{
+        width: 40%;
+    }
+}
+@media (max-width:1320px){
+    
+    .main{
+        flex-direction: column;
+    }
+    
+}
+@media (max-width:477px) {
+    #navitems{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        position: fixed;
+        top: 0;
+        right: -300px;
+        height: 100vh;
+        width: 280px;
+        background: rgb(23, 23, 58);
+        box-shadow: 0 40px 60px rgb(255, 255, 255);
+        padding: 80px 0 0 10px;
+        transition: 0.3s;
+      z-index: 999;
+    }
+   
+    #navitems  li{
+        margin-bottom: 25px;
+        color: white;
+    }
+    #navitems  li a{
+        border: 2px #bb73bb;
+        padding: 10px;
+        border-radius: 5px ;
+        color: white;
+      
+    }
+   
+    #mobile{
+        display: flex;
+        align-items: center;
+    
+    }
+    #mobile img{
+        font-size: 24px;
+        padding-left: 800px;
+        margin-top: -35px;
+    }
+    #close{
+        position: absolute;
+        font-size: 24px;
+        color: rgb(247, 247, 247);
+       top: 30px;
+       left: 30px;
+       display: initial;
+    }
+   
+    .header{
+        flex-direction: column;
+    }
+
+
+    
+    .image-1 {
+        width: 335px;
+        height: 250px;
+    }
+    .container{
+        margin: 20px;
+        
+        }
+        .main{
+            flex-direction: column;
+        }
+        .main-left{
+            width: 100%;
+        }
+        .main-right{
+            width: 100%;
+            margin-top: 10px;
+            height: 550px;   
+        }
+        .main-right-subheading h3 {
+            font-size: 0.9rem;
+            }
+            
+            #line::after {
+                width: 250px;
+                left: 3px;
+                top: 60px;
+
+            }
+            .main-right-subheading, .main-right-head{
+                padding-left: 10px ;
+            }
+
+        .main-right-head h1 {
+            font-size: 3rem;
+        }
+        .main-right-head h2 {
+            font-size: 2rem;
+        }
+        .main-intro{
+            flex-direction: column;
+           
+        }
+        .header{
+            flex-direction: column;
+        }
+        .main-heading{
+            width: 100%;
+        }
+        .main-heading h1{
+            font-size: 1.8em;}
+            .sub-heading{
+                width: 80%;
+                margin-left: 0px;
+            }
+            .sub-heading h4 {
+                line-height: 1.5em;
+                font-size: 0.8rem;
+                
+            }
+           button{
+            padding: 20px 25px 20px 25px;
+            font-size: 0.9rem;
+           }
+           .main-2{
+            flex-wrap: wrap;
+          }
+           .main-2-sub{
+            margin-left: 120px;
+            margin-top: -145px;
+          
+        }
+           .main-2-sub h1{
+            font-size: 2rem;
+           }
+           .main-2-sub h2{
+            font-size: 0.9rem;
+           }
+           .main-2-sub h3{
+            font-size: 0.7rem;
+           }
+           .main-2 > img{
+           margin-bottom: 20px;
+        }
+          
+
+           
+}
