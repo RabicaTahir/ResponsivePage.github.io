@@ -1,5 +1,5 @@
 
-# Frontend Mentor - News homepage solution
+# 🎯 Frontend Mentor - News homepage solution
 
 This is a solution to the [News homepage challenge on Frontend Mentor]
 My Profile:
@@ -7,18 +7,17 @@ My Profile:
 
 
 
-### Screenshot
+### ♨Screenshot
 
-![](./new-homepage-solution-by-rabica.jpg)
+![](./newhomepagesolutionbyrabica.png)
 
-### Links
+### 🔗Links
 
 - Solution URL: (https://github.com/RabicaTahir/ResponsivePage.github.io)
 - Live Site URL: (https://rabicatahir.github.io/ResponsivePage.github.io/)
 
-## My process
 
-### Built with
+### 🎨🛠 Built with
 
 - HTML5 
 - CSS3 custom properties
@@ -28,7 +27,7 @@ My Profile:
 
 
 
-## Author
+## ✒Author
 
 
 - Frontend Mentor - [@RabicaTahir](https://www.frontendmentor.io/profile/RabicaTahir)
@@ -36,7 +35,7 @@ My Profile:
 
 
 
-## Acknowledgments
+## 📍📌Acknowledgments
 
 Thank you frontendmentor for helping us developing and enhancing our skills <3.
 
