@@ -3,7 +3,7 @@
     margin: 0;
     font-family: 'Inter', sans-serif;
 }
-.container{
+body{
 margin: 50px;
 
 }
@@ -69,13 +69,13 @@ li{
     margin-left: 90px;
 }
 
-.sub-heading h4{
+.sub-heading h2{
 line-height: 1.5em;
 color: grey;
 font-weight: 400;
 font-size: 1.2rem;
 }
-button{
+.sub-heading a{
     outline: none;
     border: none;
     background: rgb(252, 67, 67);
@@ -84,6 +84,7 @@ button{
     margin-top: 20px;
     font-size: 1.1rem;
     letter-spacing: 0.5em;
+    cursor: pointer;
 
 }
 .main-right{
@@ -113,10 +114,10 @@ button{
     margin-top: 20px;
     font-size: 1.3rem;
 }
-#line{
+.line{
     position: relative;
 }
-#line::after{
+.line::after{
     content: '';
     color: white;
     position: absolute;
